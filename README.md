@@ -16,4 +16,4 @@ Based on `RangeColor 1.9`
 Put `RangeColor` folder to `World of Warcraft\Interface\AddOns`
 
 # Detailed description
-'/rangecolor' to open the configuration menu. 
+`/rangecolor` to open the configuration menu. 
